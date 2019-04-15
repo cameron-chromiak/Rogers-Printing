@@ -1,0 +1,36 @@
+
+.bg-yellow{
+  background: #ffdc12;
+}
+
+/* Nav Bar*/
+
+.nav__bar{
+  display: flex;
+  justify-content: space-between;
+  padding: 1em;
+  border-bottom: 1px solid grey;
+
+}
+.nav__ul{
+  display: flex;
+  list-style: none;
+  height: 100%;
+}
+.nav__list_item{
+  margin-right: .5rem;
+}
+.nav__spacer{
+  flex: 1
+}
+.bg-light-blue{
+  background: #03A9F4
+}
+.text-lg p{
+  font-size: 18px;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
