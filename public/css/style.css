@@ -1,15 +1,27 @@
 
+.border-top{
+  border-top: 1px solid grey;
+
+}
+.bg-dark-blue{
+  background:	#000080
+}
+.bg-magenta{
+  background: #8B008B;
+}
 .bg-yellow{
   background: #ffdc12;
 }
 
 /* Nav Bar*/
-
+.logo-img{
+  max-height: 50px;
+}
 .nav__bar{
   display: flex;
   justify-content: space-between;
   padding: 1em;
-  border-bottom: 1px solid grey;
+
 
 }
 .nav__ul{
